@@ -1,4 +1,4 @@
-# my_app
+# Flutter random word
 
 A new Flutter project.
 
